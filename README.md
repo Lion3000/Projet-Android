@@ -7,4 +7,4 @@
 ## Auteurs du README
 
 * **El Karmoudi mohamed** 
-* **Yvalo Dimitrov** 
+* **Ivaylo Dimitrov** 
