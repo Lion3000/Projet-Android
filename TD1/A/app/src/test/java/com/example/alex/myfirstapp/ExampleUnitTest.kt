@@ -1,4 +1,4 @@
-package com.example.alex.td1
+package com.example.alex.myfirstapp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.alex.td1
+package com.example.alex.myfirstapp
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
